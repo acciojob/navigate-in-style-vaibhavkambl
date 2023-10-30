@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.navbar {
+	background-color: #D3D3D3;
+	padding: 10px;
+	display: inline;
+}
+.navbar ul {
+	display: inline;
+	
+}
+.navbar a {
+	margin-right: 1rem;
+}
